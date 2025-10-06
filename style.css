@@ -1,0 +1,13 @@
+input{
+  height: 150px;
+  width: 300px;
+  margin: 0% auto;
+  display: flex;
+  justify-content:center ;
+  justify-items: center;
+  text-align: center;
+}
+
+h1,h2{
+  text-align: center;
+}
